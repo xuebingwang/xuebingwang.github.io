@@ -16,3 +16,5 @@ post_defaults:
 #redcarpet:
 #  extensions: ["tables", "autolink"]
 
+
+theme: jekyll-theme-minimal
